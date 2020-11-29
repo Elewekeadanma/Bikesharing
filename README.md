@@ -1,6 +1,7 @@
 # Bikesharing
 ##  Overview
 This purpose of this project is to investigate how a bike sharing program operates in New York and to create a proposal on how it might work in Des Moines.
+---
 [link to dashboard](https://public.tableau.com/views/BusinessProposal_16066675699980/TripsbyWeekdayperHour?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 ---
 ##  Results:
