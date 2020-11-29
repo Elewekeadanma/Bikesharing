@@ -15,6 +15,10 @@ This purpose of this project is to investigate how a bike sharing program operat
 ![Chechout Times for Users](https://github.com/Elewekeadanma/Bikesharing/blob/main/Checkout_Times_for_Users.PNG)
 ---
 - Looking at Checkout Time by Gender chart, more males rented bikes than females. We could take a survey from females and find out why they don't ride bikes as much as men and see if there are any changes that could be made which could hopefully get more females to ride bikes.
-![Checkout Time by Gender](https://github.com/Elewekeadanma/Bikesharing/blob/main/Checkout_Times_by_Gender.PNG)
+![Checkout Times by Gender](https://github.com/Elewekeadanma/Bikesharing/blob/main/Checkout_Times_by_Gender.PNG)
 ---
-
+This is the Gender Breakdown chart and once again it is obvious that more men than women rented bikes.
+![Gender Breakdown](https://github.com/Elewekeadanma/Bikesharing/blob/main/Gender_Breakdown.PNG)
+---
+Looking at the chart below, it shows a higher density at peak periods in the morning and in the evening when people are most likely going to work or coming back from work. This means that there were more bike rentals at about that time.
+![Trips by Weekday by the hour](
