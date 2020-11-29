@@ -26,7 +26,7 @@ Looking at the heatmap below, it shows a higher density at peak periods in the m
 ![Trips by Weekday by the hour](https://github.com/Elewekeadanma/Bikesharing/blob/main/Trips_by_Weekday_by_Hour.PNG)
 
 ---
-We also wanted to see how many customers vs subscribers rented bikes. From the chart below, it can be seen that much more subscribers rented bikes than just regular customers. This is indicated by the density in the chart.
+We also wanted to see how many customers vs subscribers rented bikes. From the heatmap below, it can be seen that much more subscribers rented bikes than just regular customers. This is indicated by the density in the chart.
 ![User Trips by Type of User and by Gender](https://github.com/Elewekeadanma/Bikesharing/blob/main/User_Trips_by_Gender_by_Weekday.PNG)
 
 ---
