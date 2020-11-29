@@ -13,5 +13,7 @@ This purpose of this project is to investigate how a bike sharing program operat
 ---
 - Looking at the Checkout Times for Users chart, it can be seen that the graph peaked at around 5 and dwindled towards the evening.
 ![Chechout Times for Users](https://github.com/Elewekeadanma/Bikesharing/blob/main/Checkout_Times_for_Users.PNG)
-
+---
+- Looking at Checkout Time by Gender chart, more males rented bikes than females. We could take a survey from females and find out why they don't ride bikes as much as men and see if there are any changes that could be made which could hopefully get more females to ride bikes.
+![Checkout Time by Gender](
 
