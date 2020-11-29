@@ -21,4 +21,7 @@ This is the Gender Breakdown chart and once again it is obvious that more men th
 ![Gender Breakdown](https://github.com/Elewekeadanma/Bikesharing/blob/main/Gender_Breakdown.PNG)
 ---
 Looking at the chart below, it shows a higher density at peak periods in the morning and in the evening when people are most likely going to work or coming back from work. This means that there were more bike rentals at about that time.
-![Trips by Weekday by the hour](
+![Trips by Weekday by the hour](https://github.com/Elewekeadanma/Bikesharing/blob/main/Trips_by_Weekday_by_Hour.PNG)
+---
+We also wanted to see how many customers vs subscribers rented bikes. From the chart below, it can be seen that much more subscribers rented bikes than just regular customers. This is indicated by the density in the chart.
+![User Trips by Type of User and by Gender](
